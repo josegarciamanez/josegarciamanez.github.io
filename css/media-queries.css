@@ -12,7 +12,7 @@
   /* header styles
    ------------------------------------------------------------------ */
   header .banner-text h1 {
-    font: 80px/1.1em "Roboto", sans-serif;
+    font: 80px/1.1em "Roboto-thin", sans-serif;
     letter-spacing: -1px;
     margin: 0 auto 12px auto;
   }
@@ -27,7 +27,7 @@
     padding-bottom: 12px;
   }
   header .banner-text h1 {
-    font: 78px/1.1em "Roboto", sans-serif;
+    font: 78px/1.1em "Roboto-thin", sans-serif;
     letter-spacing: -1px;
   }
   header .banner-text h3 {
@@ -414,8 +414,8 @@
     padding-top: 24px;
   }
   header .banner-text h1 {
-    font: 40px/1.1em "Roboto", sans-serif;
-    margin: 0 auto 24px auto;
+    font: 30px/1.1em "Roboto-thin", sans-serif !important;
+    margin: 0 auto 10px auto;
   }
   header .banner-text h3 {
     font: 14px/1.9em "Roboto", sans-serif;
