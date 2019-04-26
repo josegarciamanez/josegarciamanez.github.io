@@ -219,7 +219,7 @@ ul#nav li.current a {
 /* ------------------------------------------------------------------ */
 
 #about {
-    background-image: url("../images/bg-about.jpg");
+    background: #07222f;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -560,7 +560,7 @@ ul#nav li.current a {
 /* ------------------------------------------------------------------ */
 
 #portfolio {
-    background: #11abb0;
+    background: #07222f;
     padding-top: 90px;
     padding-bottom: 60px;
 }
