@@ -160,11 +160,11 @@
     /* display menu panels */
     #nav-wrap:target>ul#nav {
         display: block;
-        padding: 30px 20px 48px 20px;
-        background: #515152;
+        padding: 30px 20px 30px 20px;
+        background: #fff;
         margin: 0 30px;
         clear: both;
-        border-radius: 10px;
+        border-radius: 50px;
     }
     ul#nav li {
         display: block;
@@ -172,7 +172,7 @@
         margin: 0 auto;
         padding: 0 4%;
         text-align: left;
-        border-bottom: 1px dotted #fff;
+        border-bottom: 1px solid #07222f;
     }
     ul#nav li a {
         display: block;
